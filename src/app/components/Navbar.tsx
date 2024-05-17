@@ -26,7 +26,7 @@ const Navbar = () => {
                         sm:text-2xl   
                         none: font-bold
                         lg:static flex items-center gap-2
-                      	 ">Angel's Burger 
+                      	 ">Angel&apos;s Burger s Burger 
         <Image className="rounded-full hidden md:flex  " src="/AngelsBurgerLogo.png" alt="" width={70} height={70}/> 
         </Link>
         

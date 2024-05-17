@@ -8,7 +8,7 @@ const Footer = () => {
       
          <div className=" md:flex gap-4 flex-1 items-center font-bold text-xl ">
          <Image className="rounded-full md:flex hidden" src="/AngelsBurgerLogo.png" alt="" width={90} height={90} /> 
-         <p > Angel's Burger</p>   
+         <p > Angel&apos;s Burger</p>   
          </div>
 
     <div className="  lg:text-base	  ">
